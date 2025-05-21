@@ -208,5 +208,21 @@ For questions or suggestions, feel free to reach out at \[[21it3013@rgipt.ac.in]
 This project is licensed under the MIT License.
 
 ## Result
+Some results are show below
+
+# Get all users 
+![image](https://github.com/user-attachments/assets/4bcc95ca-4d3e-4765-bdb5-3b19b7d6bb59)
+
+# Post a new user
+![image](https://github.com/user-attachments/assets/8268dc4e-3bfa-46ae-8b06-93e672599ba1)
+
+# Get all Task
+![image](https://github.com/user-attachments/assets/833534f5-3040-450e-85f1-7248525bab8f)
+
+# Post a Task
+![image](https://github.com/user-attachments/assets/37775c92-88d4-4223-a886-8610bc62e695)
+
+
+
 
 
