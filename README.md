@@ -199,7 +199,7 @@ DELETE /tasks/:id
 
 ## 📢 Contact
 
-For questions or suggestions, feel free to reach out at \[[your-email@example.com](mailto:21it3013@gipt.ac.in)].
+For questions or suggestions, feel free to reach out at \[[21it3013@rgipt.ac.in](mailto:21it3013@gipt.ac.in)].
 
 ---
 
